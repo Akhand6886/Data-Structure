@@ -1,3 +1,16 @@
+//  Question:-   Apply the concept of array, structure and experiment on nested array and
+//		array of structures to add elements in an array then insert and
+//		delete an element from a specific position from array.
+//		Use the concept of structure of array to store student’s record
+
+
+			
+		//  OUTPUT FROM CODE  //
+			//  Deleting an Element from an Array  //
+			//  Inserting an Element from an Array  //
+			//  Creating data list of Students  //
+
+
 #include <stdio.h>
 #include <string.h>
 struct student
@@ -122,8 +135,8 @@ int main()
 		        students[j].Sap_ID,students[j].Roll_No,students[j].Name,students[i].Marks);
 		    }
     break;
-    //default:
-	//printf("Choice Error: Choose only from 1 , 2 and 3");
+    default:
+	printf("Choice Error: Choose only from 1 , 2 and 3");
         
     }
 
