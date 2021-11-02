@@ -3,6 +3,14 @@
 //		delete an element from a specific position from array.
 //		Use the concept of structure of array to store student’s record
 
+
+			
+		//  OUTPUT FROM CODE  //
+			//  Deleting an Element from an Array  //
+			//  Inserting an Element from an Array  //
+			//  Creating data list of Students  //
+
+
 #include <stdio.h>
 #include <string.h>
 struct student
