@@ -1,7 +1,7 @@
-#  Question:-   Apply the concept of array, structure and experiment on nested array and
-#		array of structures to add elements in an array then insert and
-#		delete an element from a specific position from array.
-#		Use the concept of structure of array to store student’s record
+//  Question:-   Apply the concept of array, structure and experiment on nested array and
+//		array of structures to add elements in an array then insert and
+//		delete an element from a specific position from array.
+//		Use the concept of structure of array to store student’s record
 
 #include <stdio.h>
 #include <string.h>
