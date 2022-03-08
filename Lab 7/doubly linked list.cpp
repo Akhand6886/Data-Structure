@@ -110,6 +110,7 @@ struct node *create_ll(struct node *start)
              new_node -> next = NULL;
              start = new_node;
        }
+	      
        else
        {      
              ptr=start;
@@ -124,6 +125,7 @@ struct node *create_ll(struct node *start)
        printf("\n Enter the data : ");
        scanf("%d", &num);
       }
+	
       return start;
 }
 
